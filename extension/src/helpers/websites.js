@@ -1,0 +1,18 @@
+export const extensionWebsiteDomains = [
+	// "phantombuster.com",
+	// "zapier.com",
+	"localhost",
+	// "facebook.com",
+	// "github.com",
+	// "instagram.com",
+	// "intercom.io",
+	// "linkedin.com",
+	// "medium.com",
+	// "producthunt.com",
+	// "slack.com",
+	// "twitter.com",
+	// "uber.com",
+	// "youtube.com",
+	// "quora.com",
+	// "pinterest.com",
+]
