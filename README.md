@@ -12,7 +12,7 @@ There are two parts for this demo (both parts need to be up and running)
 - cd into the `site` project
 - run `npm install`
 - run `npm run start`
-- navigate to `http://localhost:3000`
+- navigate to `http://localhost:3000/static/index.html`
 
 # Prior work
 
